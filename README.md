@@ -7,7 +7,7 @@ This repository documents my work for Kaggle's AI Mathematical Olympiad (AIMO3).
 - Private Score: 41.0
 - Rank: 1209 / 4,138 teams
 - Hardware: Single H100 GPU
-- Top Score: 44.0
+- Top Team Score: 44.0
 
 ## Overview
 
